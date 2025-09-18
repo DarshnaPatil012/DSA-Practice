@@ -1,3 +1,3 @@
 # DSA-Practice
 <br>
-Author - Darshna Patil
+Author - Darshna Pramod Patil
